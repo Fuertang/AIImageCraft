@@ -1,0 +1,6 @@
+{
+  "name": "ImageCraft",
+  "description": "专业级一站式图片创意工坊。整合批量绿幕抠图、像素动画序列帧微调以及多合一图片拼版拼接工具，提供极简现代、流畅好用的纯前端处理体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
